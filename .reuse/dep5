@@ -1,0 +1,29 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Grigore Stefan CA
+Upstream-Contact: Grigore Stefan <g_stefan@yahoo.com>
+Source: https://github.com/g-stefan/grigore-stefan.ca
+License: MIT
+
+Files: .github/*
+Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+License: Unlicense
+
+Files: .github/CODE_OF_CONDUCT.md
+Copyright: 2014 Coraline Ada Ehmke <https://where.coraline.codes/>
+License: CC-BY-4.0
+
+Files: source/*
+Copyright: 2020-2021 Grigore Stefan <g_stefan@yahoo.com>
+License: MIT
+
+Files: README.md
+Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+License: MIT
+
+Files: .gitignore
+Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+License: Unlicense
+
+Files: version.ini
+Copyright: 2021 Grigore Stefan <g_stefan@yahoo.com>
+License: Unlicense
